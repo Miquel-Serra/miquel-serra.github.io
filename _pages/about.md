@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Faculty of Medicine & Faculty of Law, University of Zurich</a>. 
 
 profile:
   align: right
   image: IMG_3056.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>S2014</p>
+    <p>S214</p>
     <p>Hirsengraben 84</p>
     <p>Switzerland, Zurich 8001</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: fale  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
