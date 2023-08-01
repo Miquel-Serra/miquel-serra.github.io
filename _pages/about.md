@@ -7,9 +7,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: IMG_3056.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
+    <p>S2014</p>
     <p>Hirsengraben 84</p>
     <p>Switzerland, Zurich 8001</p>
 
