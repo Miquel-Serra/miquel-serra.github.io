@@ -7,7 +7,7 @@ subtitle: <a href='#'>Faculty of Medicine & Faculty of Law, University of Zurich
 profile:
   align: right
   image: IMG_3056.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>S214</p>
     <p>Hirsengraben 84</p>
