@@ -8,10 +8,7 @@ profile:
   align: right
   image: IMG_3056.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>S214</p>
-    <p>Hirsengraben 84</p>
-    <p>Switzerland, Zurich 8001</p>
+
 
 news: fale  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
