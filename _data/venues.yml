@@ -2,5 +2,19 @@
   url: https://www.thelancet.com/journals/eclinm/home
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"BMJ":
+  url: https://www.bmj.com/
+  color: "#00369f"
+
+"Heart":
+  url: https://heart.bmj.com/
+  color: "#00369f"
+  
+"Thorax":
+  url: https://thorax.bmj.com/
+  color: "#00369f"
+
+"Nature Medicine":
+  url: https://www.nature.com/nm/
+  color: "#00369f"
+  
