@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: LiverScreen
+description: Screening for liver fibrosis population-based study across European countries
 img: assets/img/12.jpg
 importance: 1
 category: work
