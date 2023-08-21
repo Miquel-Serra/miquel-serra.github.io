@@ -19,3 +19,5 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my personal webpage. I am researcher in epidemiology, health economics, and policy at the university of Zurich. I work both at the [Epidemiology, Biostatistics, and Prevention Institute](https://www.ebpi.uzh.ch/en.html/), and at the [Vokinger chair](https://www.ius.uzh.ch/en/staff/professorships/alphabetical/vokinger/vokinger.html/) of the faculty of Law & Medicine.
 
 I hold a PhD in Economics from the [University of Barcelona](https://web.ub.edu/en/home), an MSc in Health Economics and Policy from the [Barcelona School of Economics](https://bse.eu/), and a BSc in Economics from the [Pompeu Fabra University](https://www.upf.edu/).
+
+My research focus on applied health topics that can be quantitatively studied. Research areas range from theoretical priority setting in healthcare to clinical questions in medical subspecialties.
