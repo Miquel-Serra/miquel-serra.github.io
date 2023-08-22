@@ -4,7 +4,7 @@ title: LiverScreen
 description: Screening for liver fibrosis population-based study across European countries
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: present
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
